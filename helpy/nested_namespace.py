@@ -1,4 +1,8 @@
-"""Generator for nested versions of SimpleNamespace."""
+"""
+Generator for nested versions of SimpleNamespace.
+
+Taken from https://stackoverflow.com/a/54332748/7672448
+"""
 
 from types import SimpleNamespace
 
